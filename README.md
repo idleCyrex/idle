@@ -3,7 +3,7 @@
 I’m a **Full-Stack Developer** passionate about building clean, scalable, and user-friendly applications.  
 Currently, I’m focusing on **React, Express.js, and IoT projects**.  
 
-💡 I love turning ideas into functional projects — from **business websites** to **real-time monitoring systems**.  
+💡 I love turning ideas into functional projects from **business websites** to **real-time monitoring systems**.  
 
 ---
 
@@ -60,4 +60,4 @@ My personal portfolio showcasing skills, projects, and contact details.
 
 ---
 
-✨ Thanks for visiting my profile — feel free to explore my repos or reach out!
+✨ Thanks for visiting my profile feel free to explore my repos or reach out!
