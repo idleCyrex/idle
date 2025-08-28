@@ -49,7 +49,6 @@ My personal portfolio showcasing skills, projects, and contact details.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idleCyrex&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idleCyrex&layout=compact&theme=radical)
 
 ---
