@@ -57,7 +57,7 @@ My personal portfolio showcasing skills, projects, and contact details.
 ## 🌍 Connect with Me
 
 - 🌐 [Portfolio](https://idlee.xyz)  
-- ✉️ [Email Me](contact@idlee.xyz)  
+- ✉️ [Email Me](mailto:contact@idlee.xyz)
 
 ---
 
