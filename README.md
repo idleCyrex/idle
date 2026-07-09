@@ -77,8 +77,6 @@ I like turning rough ideas into sites that load fast and feel thought-through, f
 
 <div align="center">
 
-<sub>live signal · updates daily</sub>
-
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idleCyrex&theme=merko" alt="GitHub profile summary" />
