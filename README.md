@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=24&duration=2600&pause=900&color=28FF6A&center=true&vCenter=true&width=780&height=70&lines=idlee.xyz+//+boot+sequence+v4.0;usr:alex+//+full-stack+developer;DREAM+WEBSITES+DELIVERED_;self-hosted:+VPS+-+Proxmox+-+Raspberry+Pi" alt="idlee.xyz boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=1000&color=28FF6A&center=true&vCenter=true&width=800&height=95&lines=idlee.xyz+//+boot+v4.0;usr:alex+//+full-stack+dev;DREAM+WEBSITES+DELIVERED_;self-hosted+on+my+own+metal" alt="idlee.xyz boot sequence" />
 
 <br/>
 
@@ -12,23 +12,24 @@
 
 ---
 
-## `$ whoami`
+<img alt="$ whoami" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1400&repeat=false&color=28FF6A&width=560&height=46&lines=%24+whoami" />
 
 ```txt
-> Alex // full-stack developer, Romanian-born, France-based.
-> I build fast websites end-to-end: backend, frontend, and the motion between.
-> Design and engineering handled by one pair of hands.
-> I don't just deploy to the cloud — I own the machines it runs on.
+> Hey, I'm Alex. Full-stack dev, born in Romania, based in France.
+> I build fast websites from the ground up: the backend, the frontend,
+> and the little bits of motion that tie them together.
+> Design and code both come from me, not a template.
+> And I don't just push to the cloud, I run the servers it all lives on.
 ```
 
-I turn ideas into fast, considered websites — from the first sketch to the final deploy. Frontend that hits 60fps, backends you can trust, and everything **self-hosted on infrastructure I set up and manage myself**.
+I like turning rough ideas into sites that load fast and feel thought-through, from the first sketch all the way to deploy. Smooth 60fps frontends, backends you can actually rely on, and everything running on hardware I set up and look after myself.
 
 > [!TIP]
-> **What actually sets me apart:** most devs stop at `git push`. I own the whole stack — the interface, the API, the database, *and the server*. My projects run on my own **VPS**, a **Proxmox** cluster, and a **Raspberry Pi** I wired and maintain by hand. Database → server → interface → the pixels you see. One person, no black boxes.
+> **The part most people skip:** a lot of devs stop at `git push`. I don't. I own the whole thing, the interface, the API, the database, and the box it runs on. My projects live on my own **VPS**, a little **Proxmox** setup, and a **Raspberry Pi** I wired up by hand. From the database to the pixels on your screen, it's all me. No black boxes.
 
 ---
 
-## `$ cat stack.txt`
+<img alt="$ cat stack.txt" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1400&repeat=false&color=28FF6A&width=560&height=46&lines=%24+cat+stack.txt" />
 
 **Frontend**
 
@@ -72,12 +73,20 @@ I turn ideas into fast, considered websites — from the first sketch to the fin
 
 ---
 
-## `$ git log --stat` &nbsp;·&nbsp; live signal
+<img alt="$ git log --stat" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1400&repeat=false&color=28FF6A&width=640&height=46&lines=%24+git+log+--stat" />
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=idleCyrex&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&bg_color=020A05&title_color=28FF6A&text_color=C9FFDC&icon_color=5CFFA0&border_color=1C6E3E" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idleCyrex&layout=compact&langs_count=8&hide_border=false&bg_color=020A05&title_color=28FF6A&text_color=C9FFDC&icon_color=5CFFA0&border_color=1C6E3E" alt="Top languages" />
+<sub>live signal · updates daily</sub>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idleCyrex&theme=merko" alt="GitHub profile summary" />
+
+<br/>
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=idleCyrex&theme=merko" alt="Most-used languages by commits" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=idleCyrex&theme=merko" alt="Repos per language" />
 
 <br/>
 
@@ -91,34 +100,34 @@ I turn ideas into fast, considered websites — from the first sketch to the fin
 
 ---
 
-## `$ ls ~/projects`
+<img alt="$ ls ~/projects" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1400&repeat=false&color=28FF6A&width=600&height=46&lines=%24+ls+~%2Fprojects" />
 
 **`[ SITES ]`**
 
 | Project | Stack | Live |
 |---|---|---|
-| 🧪 **FBALAB** — web platform | `Next.js` · `MongoDB` | [dev.fbalab.fr](https://dev.fbalab.fr/) |
-| 🌊 **CheriéFamily** — booking & payments | `React` · `Express` · `MongoDB` · `Stripe` · `Resend` | [cheriefamily.com](https://www.cheriefamily.com/) |
+| 🧪 **FBALAB** · web platform | `Next.js` · `MongoDB` | [www.fbalab.fr](https://www.fbalab.fr) |
+| 🌊 **CheriéFamily** · booking & payments | `React` · `Express` · `MongoDB` · `Stripe` · `Resend` | [cheriefamily.com](https://www.cheriefamily.com/) |
 | 🦷 **Dental Clinic** | `React` · `Express` · `MongoDB` | [dentist.idlee.xyz](https://dentist.idlee.xyz/) |
-| 🚗 **DRIVE 4U** — driving school | `React` · `Express` · `MongoDB` | [scoalade-soferi.ro](https://scoalade-soferi.ro/) |
-| 💾 **Portfolio** — this CRT terminal | `Next.js` · `Framer Motion` · `Lenis` · `Resend` | [idlee.xyz](https://idlee.xyz) |
+| 🚗 **DRIVE 4U** · driving school | `React` · `Express` · `MongoDB` | [scoalade-soferi.ro](https://scoalade-soferi.ro/) |
+| 💾 **Portfolio** · this CRT terminal | `Next.js` · `Framer Motion` · `Lenis` · `Resend` | [idlee.xyz](https://idlee.xyz) |
 
 **`[ GAMES ]`**
 
 | Project | Stack | Live |
 |---|---|---|
-| ⏪ **Rewinder** — time-rewind platformer | `Unity` · `C#` | *in dev* |
+| ⏪ **Rewinder** · time-rewind platformer | `Unity` · `C#` | *in dev* |
 | 🥙 **Shaorma Clicker** | `JavaScript` · `HTML` · `CSS` | [play](https://shaorma.netlify.app/game.html) |
 
 **`[ HARDWARE ]`**
 
 | Project | Stack | Live |
 |---|---|---|
-| 🌫️ **Weather Station** — real-time temp/humidity/pressure | `Python` · `Raspberry Pi` · `Sensors` | [repo](https://github.com/idleCyrex/raspberry-pi-weather-station) |
+| 🌫️ **Weather Station** · real-time temp/humidity/pressure | `Python` · `Raspberry Pi` · `Sensors` | [repo](https://github.com/idleCyrex/raspberry-pi-weather-station) |
 
 ---
 
-## `$ ./connect.sh`
+<img alt="$ ./connect.sh" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1400&repeat=false&color=28FF6A&width=600&height=46&lines=%24+.%2Fconnect.sh" />
 
 ```txt
 > establishing uplink → contact@idlee.xyz
@@ -132,6 +141,6 @@ I turn ideas into fast, considered websites — from the first sketch to the fin
 
 <br/>
 
-<sub>`// built & designed from scratch — one pair of hands`</sub>
+<sub>// built & designed from scratch, by one pair of hands</sub>
 
 </div>
