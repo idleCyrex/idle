@@ -12,7 +12,7 @@
 
 ---
 
-<img alt="$ whoami" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1400&repeat=false&color=28FF6A&width=560&height=46&lines=%24+whoami" />
+<img alt="$ whoami" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1400&repeat=false&color=28FF6A&width=300&height=34&lines=%24+whoami" />
 
 ```txt
 > Hey, I'm Alex. Full-stack dev, born in Romania, based in France.
@@ -29,7 +29,7 @@ I like turning rough ideas into sites that load fast and feel thought-through, f
 
 ---
 
-<img alt="$ cat stack.txt" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1400&repeat=false&color=28FF6A&width=560&height=46&lines=%24+cat+stack.txt" />
+<img alt="$ cat stack.txt" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1400&repeat=false&color=28FF6A&width=440&height=34&lines=%24+cat+stack.txt" />
 
 **Frontend**
 
@@ -73,7 +73,7 @@ I like turning rough ideas into sites that load fast and feel thought-through, f
 
 ---
 
-<img alt="$ git log --stat" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1400&repeat=false&color=28FF6A&width=640&height=46&lines=%24+git+log+--stat" />
+<img alt="$ git log --stat" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1400&repeat=false&color=28FF6A&width=470&height=34&lines=%24+git+log+--stat" />
 
 <div align="center">
 
@@ -85,22 +85,13 @@ I like turning rough ideas into sites that load fast and feel thought-through, f
 
 <br/>
 
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=idleCyrex&theme=merko" alt="Most-used languages by commits" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=idleCyrex&theme=merko" alt="Repos per language" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=idleCyrex&background=020A05&border=1C6E3E&stroke=1C6E3E&ring=28FF6A&fire=FF2E4D&currStreakNum=C9FFDC&currStreakLabel=28FF6A&sideNums=C9FFDC&sideLabels=C9FFDC&dates=2F9D5B&excludeDaysLabel=2F9D5B" alt="Contribution streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=idleCyrex&bg_color=020a05&color=5cffa0&line=28ff6a&point=c9ffdc&area=true&area_color=041307&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-<img alt="$ ls ~/projects" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1400&repeat=false&color=28FF6A&width=600&height=46&lines=%24+ls+~%2Fprojects" />
+<img alt="$ ls ~/projects" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1400&repeat=false&color=28FF6A&width=440&height=34&lines=%24+ls+~%2Fprojects" />
 
 **`[ SITES ]`**
 
@@ -127,7 +118,7 @@ I like turning rough ideas into sites that load fast and feel thought-through, f
 
 ---
 
-<img alt="$ ./connect.sh" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1400&repeat=false&color=28FF6A&width=600&height=46&lines=%24+.%2Fconnect.sh" />
+<img alt="$ ./connect.sh" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1400&repeat=false&color=28FF6A&width=420&height=34&lines=%24+.%2Fconnect.sh" />
 
 ```txt
 > establishing uplink → contact@idlee.xyz
