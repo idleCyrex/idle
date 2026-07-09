@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=24&duration=2600&pause=900&color=28FF6A&center=true&vCenter=true&width=780&height=70&lines=idle.sys+//+boot+sequence+v4.0;usr:alex+//+full-stack+developer;DREAM+WEBSITES+DELIVERED_;self-hosted:+VPS+-+Proxmox+-+Raspberry+Pi" alt="idle.sys boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=24&duration=2600&pause=900&color=28FF6A&center=true&vCenter=true&width=780&height=70&lines=idlee.xyz+//+boot+sequence+v4.0;usr:alex+//+full-stack+developer;DREAM+WEBSITES+DELIVERED_;self-hosted:+VPS+-+Proxmox+-+Raspberry+Pi" alt="idlee.xyz boot sequence" />
 
 <br/>
 
